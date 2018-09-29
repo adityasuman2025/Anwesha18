@@ -1,0 +1,10 @@
+/cache/*.html
+.htaccess
+qr/
+*.DS_Store
+emailCredential.php
+dbConnection.php
+logs/*
+Payload/log.txt
+errc.txt
+errors.log
